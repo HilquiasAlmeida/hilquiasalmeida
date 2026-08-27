@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Arte original do layout. Remova este bloco se preferir usar apenas a estrutura HTML abaixo. -->
-  <img src="https://github.com/user-attachments/assets/a09a5d1f-59b0-44db-8154-3bec47e13952" alt="dh_grifo" width="1006" height="650" />
+  <img src="https://github.com/user-attachments/assets/a09a5d1f-59b0-44db-8154-3bec47e13952" alt="dh_grifo" width="2172" height="724" />
 
 </div>
 
@@ -127,12 +127,12 @@ STATUS      : ONLINE
 ## `05 // GRYFFON_METRICS`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HilquiasAlmeida&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=071014&title_color=c9953b&text_color=d8d2c4&icon_color=c9953b&rank_icon=github" alt="Estatísticas gerais do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilquiasAlmeida&layout=compact&langs_count=8&hide_border=true&bg_color=071014&title_color=c9953b&text_color=d8d2c4" alt="Linguagens mais usadas" />
+  <img height="170" src="stats.svg" alt="Estatísticas gerais do GitHub" />
+  <img height="170" src="languages.svg" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HilquiasAlmeida&theme=dark&hide_border=true&background=071014&ring=c9953b&fire=c9953b&currStreakLabel=c9953b" alt="Sequência de contribuições" />
+  <img src="streak.svg" alt="Sequência de contribuições" />
 </p>
 
 <p align="center">
