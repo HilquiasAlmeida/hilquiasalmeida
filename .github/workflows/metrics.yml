@@ -67,11 +67,13 @@ jobs:
           plugin_activity_filter: push, pr, issue
           plugin_activity_limit: 5
 
-      - name: Sincronizar alterações antes do commit
+      - name: Sincronizar com o repositorio de forma segura
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git stash
           git pull origin main --rebase || git rebase --abort
+          git stash pop || true
 
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
