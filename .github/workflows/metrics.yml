@@ -64,7 +64,10 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: push, pr, issue
           plugin_activity_limit: 5
-
+      
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+          
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
