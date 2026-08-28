@@ -68,7 +68,7 @@ MODE   : FOCUSED
 ### Linguagens e desenvolvimento
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,COBOL,c,cpp,cs,html,css,js&perline=8&theme=dark" alt="Python, Java, COBOL, C, C++, C#, HTML, CSS e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js&perline=8&theme=dark" alt="Python, Java, C, C++, C#, HTML, CSS e JavaScript" />
 </p>
 
 ### Bancos de dados, sistemas e ferramentas
