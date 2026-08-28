@@ -17,7 +17,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: "header, repositories, metadata"
           config_timezone: America/Sao_Paulo
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run script to update projects
+        run: python scripts/update_projects.py
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          
       - name: Gerar Linguagens Mais Usadas
         uses: lowlighter/metrics@latest
         with:
@@ -52,6 +64,6 @@ jobs:
       - name: Commit generated metrics
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update metrics svgs"
-          file_pattern: "*.svg"
+          commit_message: "chore: update metrics and projects"
+          file_pattern: "*.svg README.md"
           
