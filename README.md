@@ -146,9 +146,7 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Linguagem | Atualizado |
 |---|---|---|---|
-| [AppMobile](https://github.com/HilquiasAlmeida/AppMobile) | Descrição ainda não informada no repositório. | Não especificada | 2017-09-09 |
-| [Newbies](https://github.com/HilquiasAlmeida/Newbies) | Descrição ainda não informada no repositório. | Não especificada | 2017-09-09 |
-| [Atividade-SC-Public](https://github.com/HilquiasAlmeida/Atividade-SC-Public) | Descrição ainda não informada no repositório. | Não especificada | 2015-04-23 |
+
 <!-- PROJECTS:END -->
 
 
