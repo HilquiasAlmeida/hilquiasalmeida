@@ -68,13 +68,13 @@ MODE   : FOCUSED
 ### Linguagens e desenvolvimento
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js&perline=8&theme=dark" alt="Python, Java, C, C++, C#, HTML, CSS e JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,java,COBOL,c,cpp,cs,html,css,js&perline=8&theme=dark" alt="Python, Java, COBOL, C, C++, C#, HTML, CSS e JavaScript" />
 </p>
 
 ### Bancos de dados, sistemas e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,linux,git,github,vscode,docker&perline=8&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Linux, Git, GitHub, Pycharm e Docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,linux,git,github,pycharm,docker&perline=8&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Linux, Git, GitHub, Pycharm e Docker" />
 </p>
 
 | Área | Tecnologias e competências |
