@@ -31,15 +31,15 @@
 ```json
 {
   "name": "Hilquias Almeida",
-  "role": "Engenheiro da Computação",
+  "role": "Futuro Engenheiro da Computação",
   "focus": [
     "Full Stack",
     "Sistemas",
     "Automação",
     "Business Intelligence"
   ],
-  "mindset": "Código com propósito. Dados com inteligência.",
-  "mission": "Criar soluções que geram impacto real."
+  "mindset": "Códigos com propósitos. Dados com inteligência.",
+  "mission": "Criar soluções que geram impactos reais."
 }
 ```
 
