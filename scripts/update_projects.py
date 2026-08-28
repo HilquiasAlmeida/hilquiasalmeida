@@ -3,7 +3,7 @@ import requests
 
 token = os.getenv("GH_TOKEN")
 headers = {"Authorization": f"token {token}"} if token else {}
-response = requests.get("https://api.github.com/users/HilquiasAlmeida/repos?sort=updated", headers=headers)
+response = requests.get("https://api.github.com/users/HilquiasAlmeida/repos?sort=updated&per_page=100", headers=headers)
 repos = response.json()
 
 table_content = "| Projeto | Descrição | Linguagem | Atualizado |\n|---|---|---|---|\n"
