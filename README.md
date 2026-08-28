@@ -146,6 +146,8 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Linguagem | Atualizado |
 |---|---|---|---|
+| [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-08-28 |
+| [Academics](https://github.com/HilquiasAlmeida/Academics) | The exercises from the colleges I attended: FIT and FIAP. | C | 2026-08-28 |
 
 <!-- PROJECTS:END -->
 
