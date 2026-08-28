@@ -46,5 +46,12 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_activity_filter: push, pr, issue
           plugin_activity_limit: 5
+
+      - name: Commit generated metrics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update metrics svgs"
+          file_pattern: "*.svg"
+          
