@@ -1,0 +1,50 @@
+name: Metrics
+
+on:
+  schedule: [{cron: '0 0 * * *'}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar Estatísticas Gerais
+        uses: lowlighter/metrics@latest
+        with:
+          filename: stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: "header, repositories, metadata"
+          config_timezone: America/Sao_Paulo
+
+      - name: Gerar Linguagens Mais Usadas
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: bytes, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+      - name: Gerar Calendário / Sequência
+        uses: lowlighter/metrics@latest
+        with:
+          filename: streak.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Gerar Gráfico de Atividade
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
