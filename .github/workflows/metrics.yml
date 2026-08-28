@@ -64,7 +64,7 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: push, pr, issue
+          plugin_activity_filter: all
           plugin_activity_limit: 5
 
       - name: Sincronizar com o repositorio de forma segura
