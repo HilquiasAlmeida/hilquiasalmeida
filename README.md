@@ -232,18 +232,45 @@ STATUS      : ONLINE
 ```
 ## `04 // GRYFFON_PROJECT_LAB`
 
-<table>
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
   <tr>
-    <td align="center" width="14%"><strong>ALGORITMOS</strong><br /><br />◇<br /><sub>C, C++ e Python</sub></td>
-    <td align="center" width="14%"><strong>AUTOMAÇÃO</strong><br /><br />⌘<br /><sub>Python e fluxos</sub></td>
-    <td align="center" width="14%"><strong>BI</strong><br /><br />▥<br /><sub>Dashboards & Analytics</sub></td>
-    <td align="center" width="14%"><strong>DADOS</strong><br /><br />▤<br /><sub>SQL e NoSQL</sub></td>
-    <td align="center" width="14%"><strong>SECURITY</strong><br /><br />🔒<br /><sub>Kali, Wireshark & Hardening</sub></td>
-    <td align="center" width="15%"><strong>SISTEMAS</strong><br /><br />&lt;/&gt;<br /><sub>Java, C# e Linux</sub></td>
-    <td align="center" width="15%"><strong>WEB</strong><br /><br />◎<br /><sub>HTML, CSS e JS</sub></td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=algoritmos" style="text-decoration: none; color: inherit; display: block;">
+        <strong>ALGORITMOS</strong><br /><br />◇<br /><sub>C, C++ e Python</sub>
+      </a>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automacao" style="text-decoration: none; color: inherit; display: block;">
+        <strong>AUTOMAÇÃO</strong><br /><br />⌘<br /><sub>Python e fluxos</sub>
+      </a>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=bi" style="text-decoration: none; color: inherit; display: block;">
+        <strong>BI</strong><br /><br />▥<br /><sub>Dashboards & Analytics</sub>
+      </a>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dados" style="text-decoration: none; color: inherit; display: block;">
+        <strong>DADOS</strong><br /><br />▤<br /><sub>SQL e NoSQL</sub>
+      </a>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=security" style="text-decoration: none; color: inherit; display: block;">
+        <strong>SECURITY</strong><br /><br />🔒<br /><sub>Kali, Wireshark & Hardening</sub>
+      </a>
+    </td>
+    <td align="center" width="15%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=sistemas" style="text-decoration: none; color: inherit; display: block;">
+        <strong>SISTEMAS</strong><br /><br />&lt;/&gt;<br /><sub>Java, C# e Linux</sub>
+      </a>
+    </td>
+    <td align="center" width="15%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=web" style="text-decoration: none; box-shadow: none; color: inherit; display: block;">
+        <strong>WEB</strong><br /><br />◎<br /><sub>HTML, CSS e JS</sub>
+      </a>
+    </td>
   </tr>
 </table>
-
 
 > **PROJETOS EM CONSTRUÇÃO :: EVOLUÇÃO CONSTANTE**
 
