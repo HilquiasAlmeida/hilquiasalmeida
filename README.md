@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="45%">
 
 ```json
 {
@@ -44,7 +44,7 @@
 ```
 
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="55%">
 
 ### `SYSTEM STATUS`
 
