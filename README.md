@@ -232,43 +232,50 @@ STATUS      : ONLINE
 ```
 ## `04 // GRYFFON_PROJECT_LAB`
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d;">
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; text-align: center;">
+  <!-- Linha 1: Títulos com Links (100% alinhados horizontalmente) -->
   <tr>
-    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=algoritmos" style="text-decoration: none; color: inherit; display: block;">
-        <strong>ALGORITMOS</strong><br /><br />◇<br /><sub>C, C++ e Python</sub>
-      </a>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=algoritmos" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>ALGORITMOS</strong></span></a>
     </td>
-    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automacao" style="text-decoration: none; color: inherit; display: block;">
-        <strong>AUTOMAÇÃO</strong><br /><br />⌘<br /><sub>Python e fluxos</sub>
-      </a>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automacao" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>AUTOMAÇÃO</strong></span></a>
     </td>
-    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=bi" style="text-decoration: none; color: inherit; display: block;">
-        <strong>BI</strong><br /><br />▥<br /><sub>Dashboards & Analytics</sub>
-      </a>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=bi" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;" ><strong>B.I.</strong></span></a>
     </td>
-    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dados" style="text-decoration: none; color: inherit; display: block;">
-        <strong>DADOS</strong><br /><br />▤<br /><sub>SQL e NoSQL</sub>
-      </a>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dados" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>DADOS</strong></span></a>
     </td>
-    <td align="center" width="14%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=security" style="text-decoration: none; color: inherit; display: block;">
-        <strong>SECURITY</strong><br /><br />🔒<br /><sub>Kali, Wireshark & Hardening</sub>
-      </a>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=security" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>SECURITY</strong></span></a>
     </td>
-    <td align="center" width="15%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=sistemas" style="text-decoration: none; color: inherit; display: block;">
-        <strong>SISTEMAS</strong><br /><br />&lt;/&gt;<br /><sub>Java, C# e Linux</sub>
-      </a>
+    <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=sistemas" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>SISTEMAS</strong></span></a>
     </td>
-    <td align="center" width="15%" style="border: 1px solid #30363d; padding: 12px; vertical-align: middle;">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=web" style="text-decoration: none; box-shadow: none; color: inherit; display: block;">
-        <strong>WEB</strong><br /><br />◎<br /><sub>HTML, CSS e JS</sub>
-      </a>
+    <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=web" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>WEB</strong></span></a>
     </td>
+  </tr>
+  <!-- Linha 2: Ícones respectivos e alinhados -->
+  <tr>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">⚙️</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🤖</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">📊</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🗄️</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🛡️</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🐧</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🌐</td>
+  </tr>
+  <!-- Linha 3: Subtítulos / Descrições -->
+  <tr>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>C, C++ e Python</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Python e fluxos</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Dashboards & Analytics</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>SQL e NoSQL</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Kali, Wireshark & Hardening</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Java, C# e Linux</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>HTML, CSS e JS</sub></td>
   </tr>
 </table>
 
@@ -311,8 +318,23 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
     <a href="https://br.linkedin.com/in/dr-hilquias" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%23071014?style=for-the-badge&logo=linkedin&logoColor=c9953b&color=071014" alt="LinkedIn" />
     </a>
-    <a href="mailto:dhilquias@outlook.com" target="_blank">
-      <img src="https://img.shields.io/badge/E--mail-071014?style=for-the-badge&logo=gmail&logoColor=c9953b" alt="Email" />
+    <a href="https://instagram.com/dr.hilquias" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23071014?style=for-the-badge&logo=instagram&logoColor=c9953b&color=071014" alt="Instagram" />
+    </a>
+    <a href="https://facebook.com/dhilquias" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%23071014?style=for-the-badge&logo=facebook&logoColor=c9953b&color=071014" alt="Facebook" />
+    </a>
+    <a href="https://www.threads.net/dr.hilquias" target="_blank">
+      <img src="https://img.shields.io/badge/Threads-%23071014?style=for-the-badge&logo=threads&logoColor=c9953b&color=071014" alt="Threads" />
+    </a>
+  <a href="https://x.com/SrHilquias" target="_blank">
+      <img src="https://img.shields.io/badge/X-%23071014?style=for-the-badge&logo=x&logoColor=c9953b&color=071014" alt="X" />
+    </a>
+    <a href="https://www.slideshare.net//HilquiasHypolitodaSi" target="_blank">
+      <img src="https://img.shields.io/badge/SlideShare-%23071014?style=for-the-badge&logo=slideshare&logoColor=c9953b&color=071014" alt="SlideShare" />
+    </a>
+    <a href="https://www.scribd.com/dhilquias" target="_blank">
+      <img src="https://img.shields.io/badge/Scribd-%23071014?style=for-the-badge&logo=scribd&logoColor=c9953b&color=071014" alt="Scribd" />
     </a>
 </p>
 
