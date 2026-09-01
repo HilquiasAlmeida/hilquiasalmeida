@@ -69,12 +69,32 @@ MODE   : FOCUSED
   <tr>
     <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
       <h3>💻 1. Linguagens de Programação</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js&perline=4&theme=dark" alt="Linguagens" />
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=codeforces&logoColor=white" alt="COBOL" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
     </td>
     <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
       <h3>🗄️ 2. Bancos de Dados</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2&theme=dark" alt="Bancos Relacionais" />
-      <img src="https://skillicons.dev/icons?i=mongodb,redis&perline=2&theme=dark" alt="Bancos Não Relacionais" />
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      </p>
     </td>
   </tr>
   <tr>
@@ -90,37 +110,102 @@ MODE   : FOCUSED
     </td>
     <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 36px;" valign="top">
       <h3>⚙️ 4. Sistemas Operacionais</h3>
-      <img src="https://skillicons.dev/icons?i=linux,arch,redhat,kali,debian,ubuntu,fedora&perline=3&theme=dark" alt="Sistemas Operacionais" />
-    </td>
+      <p>
+        <img src="https://img.shields.io/badge/Slackware-005366?style=for-the-badge&logo=linux&logoColor=white" alt="Slackware" />
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+        <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+        <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
-      <h3>🛠️ 5. Ferramentas </h3>
-      <p>Git, Docker</p>
-      <img src="https://skillicons.dev/icons?i=git,,docker&perline=3&theme=dark" alt="Ferramentas" />
+      <h3>🛠️ 5. Ferramentas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </p>
     </td>
-    <td width="100%" style="width: 100%; border: 1px solid #30363d; padding: 16px;" valign="top">
-      <h3>🛠️ 6. Plataformas </h3>
-      <p>PyCharm, GitHub, VS Code, Docker, Office, DBeaver</p>
-      <img src="https://skillicons.dev/icons?i=pycharm,github,vscode,docker&perline=3&theme=dark" alt="Ferramentas" />
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🎛️ 6. Plataformas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      </p>
     </td>
-    </tr>
+  </tr>
   <tr>
     <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
-      <h3>🚀 6. Extras & Redes</h3>
-      <p><em>(Insira as tecnologias complementares aqui)</em></p>
+      <h3>⌨️ 7. Ambiente de Desenvolvimento Integrado</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+        <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+        <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachebeans&logoColor=white" alt="NetBeans" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+      </p>
+    </td>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🗄️ 8. Modelagens de Banco de Dados</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+        <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" />
+        <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+        <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🎨 9. Designers</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+        <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+        <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+      </p>
+    </td>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🌐 10. Redes</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+        <img src="https://img.shields.io/badge/Samba-005A9C?style=for-the-badge&logo=samba&logoColor=white" alt="Samba" />
+        <img src="https://img.shields.io/badge/PuTTY-1C3494?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🚀 11. DevOps & CI/CD</h3>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      </p>
+    </td>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🔌 12. Hardware & Embarcados</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+        <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+        <img src="https://img.shields.io/badge/Proteus-FF6600?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
+      </p>
     </td>
   </tr>
 </table>
-
-| Área | Tecnologias e competências |
-|---|---|
-| **Programação** | Python, Java, C, C++, C#, HTML, CSS e JavaScript |
-| **Dados** | PostgreSQL, MySQL, MongoDB, SQL e NoSQL |
-| **BI** | Power BI, Tableau, Excel, Power Query e Power Pivot |
-| **Sistemas** | Linux, Slackware, Arch Linux, Kali Linux, Rocky Linux, Debian, Ubuntu e Red Hat |
-| **Ferramentas** | Git, GitHub, VS Code, Docker, Microsoft Office e DBEaver |
 
 ## `03 // GRYFFON_TERMINAL`
 
