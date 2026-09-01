@@ -65,17 +65,54 @@ MODE   : FOCUSED
 
 ## `02 // GRYFFON_STACK`
 
-### Linguagens e desenvolvimento
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js&perline=8&theme=dark" alt="Python, Java, C, C++, C#, HTML, CSS e JavaScript" />
-</p>
-
-### Bancos de dados, sistemas e ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,linux,git,github,pycharm,docker&perline=8&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Linux, Git, GitHub, Pycharm e Docker" />
-</p>
+<table width="100%" style="width: 100%; border-collapse: collapse; border: 1px solid #30363d; table-layout: fixed;">
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>💻 1. Linguagens de Programação</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,html,css,js&perline=4&theme=dark" alt="Linguagens" />
+    </td>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🗄️ 2. Bancos de Dados</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2&theme=dark" alt="Bancos Relacionais" />
+      <img src="https://skillicons.dev/icons?i=mongodb,redis&perline=2&theme=dark" alt="Bancos Não Relacionais" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>📊 3. Business Intelligence</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker_Studio"/>
+        <img src="https://img.shields.io/badge/Qlik-1F66E5?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik"/>
+      </p>
+    </td>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 36px;" valign="top">
+      <h3>⚙️ 4. Sistemas Operacionais</h3>
+      <img src="https://skillicons.dev/icons?i=linux,arch,redhat,kali,debian,ubuntu,fedora&perline=3&theme=dark" alt="Sistemas Operacionais" />
+    </td>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🛠️ 5. Ferramentas </h3>
+      <p>Git, Docker</p>
+      <img src="https://skillicons.dev/icons?i=git,,docker&perline=3&theme=dark" alt="Ferramentas" />
+    </td>
+    <td width="100%" style="width: 100%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🛠️ 6. Plataformas </h3>
+      <p>PyCharm, GitHub, VS Code, Docker, Office, DBeaver</p>
+      <img src="https://skillicons.dev/icons?i=pycharm,github,vscode,docker&perline=3&theme=dark" alt="Ferramentas" />
+    </td>
+    </tr>
+  <tr>
+    <td width="50%" style="width: 50%; border: 1px solid #30363d; padding: 16px;" valign="top">
+      <h3>🚀 6. Extras & Redes</h3>
+      <p><em>(Insira as tecnologias complementares aqui)</em></p>
+    </td>
+  </tr>
+</table>
 
 | Área | Tecnologias e competências |
 |---|---|
