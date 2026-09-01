@@ -230,19 +230,20 @@ STATUS      : ONLINE
 
 >_ pronto para decolar...
 ```
-
 ## `04 // GRYFFON_PROJECT_LAB`
 
 <table>
   <tr>
-    <td align="center" width="16%"><strong>AUTOMAÇÃO</strong><br /><br />⌘<br /><sub>Python e fluxos inteligentes</sub></td>
-    <td align="center" width="16%"><strong>SISTEMAS</strong><br /><br />&lt;/&gt;<br /><sub>Java, C# e Python</sub></td>
-    <td align="center" width="16%"><strong>ALGORITMOS</strong><br /><br />◇<br /><sub>C, C++ e Python</sub></td>
-    <td align="center" width="16%"><strong>WEB</strong><br /><br />◎<br /><sub>HTML, CSS e JS</sub></td>
-    <td align="center" width="16%"><strong>DADOS</strong><br /><br />▤<br /><sub>SQL e NoSQL</sub></td>
-    <td align="center" width="20%"><strong>BI</strong><br /><br />▥<br /><sub>Dashboards e relatórios</sub></td>
+    <td align="center" width="14%"><strong>ALGORITMOS</strong><br /><br />◇<br /><sub>C, C++ e Python</sub></td>
+    <td align="center" width="14%"><strong>AUTOMAÇÃO</strong><br /><br />⌘<br /><sub>Python e fluxos</sub></td>
+    <td align="center" width="14%"><strong>BI</strong><br /><br />▥<br /><sub>Dashboards & Analytics</sub></td>
+    <td align="center" width="14%"><strong>DADOS</strong><br /><br />▤<br /><sub>SQL e NoSQL</sub></td>
+    <td align="center" width="14%"><strong>SECURITY</strong><br /><br />🔒<br /><sub>Kali, Wireshark & Hardening</sub></td>
+    <td align="center" width="15%"><strong>SISTEMAS</strong><br /><br />&lt;/&gt;<br /><sub>Java, C# e Linux</sub></td>
+    <td align="center" width="15%"><strong>WEB</strong><br /><br />◎<br /><sub>HTML, CSS e JS</sub></td>
   </tr>
 </table>
+
 
 > **PROJETOS EM CONSTRUÇÃO :: EVOLUÇÃO CONSTANTE**
 
