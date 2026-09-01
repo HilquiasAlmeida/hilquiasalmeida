@@ -292,3 +292,7 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
   <sub>GRIFO-DE-RÜPPELL TECNOLÓGICO</sub><br />
   <sub>VISÃO QUE ENXERGA LONGE • CÓDIGO QUE TRANSFORMA</sub>
 </p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=HilquiasAlmeida&style=for-the-badge&color=c9953b&label=VISITANTES" alt="Contador de visitantes" />
+</p>
