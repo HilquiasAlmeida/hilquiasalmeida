@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=c9953b&center=true&vCenter=true&width=850&lines=+Hilquias+Almeida+;Desenvolvimento+FullStack+Ops+;%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Dados+%E2%80%A2+Business+Intelligence;Solu%C3%A7%C3%B5es+inteligentes.+C%C3%B3digo+com+prop%C3%B3sito.;Sistemas+que+transformam." alt="Typing SVG" />
 </div>
 
+
 <p align="center">
   <a href="https://github.com/hilquias">
     <img src="https://img.shields.io/badge/GitHub-Hilquias%20Almeida-c9953b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
