@@ -364,11 +364,8 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 ## `07 // CONNECT`
 
 <p align="center">
-    <a href="https://github.com/hilquiasalmeida" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-071014?style=for-the-badge&logo=github&logoColor=c9953b" alt="GitHub" />
-    </a>
-    <a href="https://br.linkedin.com/in/dr-hilquias" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%23071014?style=for-the-badge&logo=linkedin&logoColor=c9953b&color=071014" alt="LinkedIn" />
+    <a href="https://gitlab.com/dhilquias" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-071014?style=for-the-badge&logo=gitlab&logoColor=c9953b" alt="GitLab" />
     </a>
     <a href="https://instagram.com/dr.hilquias" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23071014?style=for-the-badge&logo=instagram&logoColor=c9953b&color=071014" alt="Instagram" />
@@ -386,7 +383,7 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
       <img src="https://img.shields.io/badge/SlideShare-%23071014?style=for-the-badge&logo=slideshare&logoColor=c9953b&color=071014" alt="SlideShare" />
     </a>
     <a href="https://www.scribd.com/dhilquias" target="_blank">
-      <img src="https://img.shields.io/badge/Scribd-%23071014?style=for-the-badge&logo=scribd&logoColor=c9953b&color=071014" alt="Scribd" />
+      <img src="https://img.shields.io/badge/Scribd-%23071014?style=for-the-badge&logo=book&logoColor=c9953b&color=071014" alt="Scribd" />
     </a>
 </p>
 
