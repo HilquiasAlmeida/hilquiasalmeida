@@ -230,6 +230,7 @@ STATUS      : ONLINE
 
 >_ pronto para decolar...
 ```
+
 ## `04 // GRYFFON_PROJECT_LAB`
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; text-align: center;">
@@ -276,6 +277,55 @@ STATUS      : ONLINE
     <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Kali, Wireshark & Hardening</sub></td>
     <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Java, C# e Linux</sub></td>
     <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>HTML, CSS e JS</sub></td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; text-align: center;">
+  <!-- Linha 1: Títulos dos Conceitos (7 Colunas) -->
+  <tr>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>TECH-PORTFOLIO</strong></span>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span>
+    </td>
+    <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>CS-TOOLKIT</strong></span>
+    </td>
+    <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>SYSTEMS-HUB</strong></span>
+    </td>
+    <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
+      <span style="color: #c9953b;"><strong>GRYFFON-CORE</strong></span>
+    </td>
+  </tr>
+  <!-- Linha 2: Ícones respectivos e alinhados -->
+  <tr>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">💻</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🏗️</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🚀</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">⚡</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🧰</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">⚙️</td>
+    <td style="border-left: 1px solid #30363d; border-right: 1px solid #30363d; border-top: none; border-bottom: none; padding: 8px 4px;" align="center">🛡️</td>
+  </tr>
+  <!-- Linha 3: Subtítulos / Descrições -->
+  <tr>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Portfólio Completo</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Engenharia & Hub</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Ecossistema Dev</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Lab Fullstack</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Kit de Computação</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Sistemas & Redes</sub></td>
+    <td style="border: 1px solid #30363d; border-top: none; padding: 4px 4px 12px 4px;" align="center" valign="top"><sub>Núcleo Central</sub></td>
   </tr>
 </table>
 
