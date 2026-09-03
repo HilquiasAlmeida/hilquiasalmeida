@@ -241,7 +241,7 @@ STATUS      : ONLINE
       <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=algoritmos" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>ALGORITMOS</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automacao" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>AUTOMAÇÃO</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automation" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>AUTOMAÇÃO</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
       <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=bi" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;" ><strong>B.I.</strong></span></a>
