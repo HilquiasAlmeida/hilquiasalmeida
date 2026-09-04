@@ -357,7 +357,7 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Linguagem | Atualizado |
 |---|---|---|---|
-| [FIAP](https://github.com/HilquiasAlmeida/FIAP) | Descrição ainda não informada no repositório. | Python | 2026-09-03 |
+| [FIAP](https://github.com/HilquiasAlmeida/FIAP) | Descrição ainda não informada no repositório. | Python | 2026-09-04 |
 | [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-09-03 |
 | [Academics](https://github.com/HilquiasAlmeida/Academics) | The exercises from the colleges I attended: FIT and FIAP. | Python | 2026-09-02 |
 | [FIT](https://github.com/HilquiasAlmeida/FIT) | Faculdade Impacta de Tecnologia - SP | Não especificada | 2026-09-02 |
