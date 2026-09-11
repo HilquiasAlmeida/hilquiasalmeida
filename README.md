@@ -294,7 +294,13 @@ STATUS      : ONLINE
       <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=software-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dev-ecosystems" style="text-decoration: none;"><span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dev-ecosystems" style="text-decoration: none;">
+        <span style="color: #c9953b;">
+          <strong>
+            DEV-ECOSYSTEMS
+          </strong>
+        </span>
+      </a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
       <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=fullstack-labs" style="text-decoration: none;"><span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span></a>
