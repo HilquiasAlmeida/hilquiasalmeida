@@ -1,11 +1,9 @@
 <div align="center">
-  <!-- Arte original do layout. Remova este bloco se preferir usar apenas a estrutura HTML abaixo. -->
   <img src="https://github.com/user-attachments/assets/a09a5d1f-59b0-44db-8154-3bec47e13952" alt="dh_grifo" width="2172" height="724" />
-
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=c9953b&center=true&vCenter=true&width=850&lines=+Hilquias+Almeida+;Desenvolvimento+FullStack+Ops+;%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Dados+%E2%80%A2+Business+Intelligence;Solu%C3%A7%C3%B5es+inteligentes.+C%C3%B3digo+com+prop%C3%B3sito.;Sistemas+que+transformam." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=c9953b&center=true&vCenter=true&width=850&lines=+Hilquias+Almeida+;Desenvolvimento+FullStack+Ops+;%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Dados+%E2%80%A2+Business+Intelligence;Solu%C3%A7%C3%B5es+inteligentes.+C%C3%B3digos+com+prop%C3%B3sitos.;Sistemas+que+transformam." alt="Typing SVG" />
 </div>
 
 
@@ -241,10 +239,10 @@ STATUS      : ONLINE
   <!-- Linha 1: Títulos com Links (100% alinhados horizontalmente) -->
   <tr>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=algoritmos" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>ALGORITMOS</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=programmings" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>PROGRAMMINGS</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automation" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>AUTOMAÇÃO</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=automations" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;"><strong>AUTOMATIONS</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
       <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=bi" style="color: #c9953b; text-decoration: none;"><span style="text-decoration: none;" ><strong>B.I.</strong></span></a>
@@ -287,28 +285,28 @@ STATUS      : ONLINE
 <br>
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; text-align: center;">
-  <!-- Linha 1: Títulos dos Conceitos (7 Colunas) -->
+  <!-- Linha 1: Títulos dos Conceitos (7 Colunas com Links) -->
   <tr>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>TECH-PORTFOLIO</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/tech-portfolio" style="text-decoration: none;"><span style="color: #c9953b;"><strong>TECH-PORTFOLIO</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/software-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/dev-ecosystem" style="text-decoration: none;"><span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/fullstack-lab" style="text-decoration: none;"><span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>CS-TOOLKIT</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/cs-toolkit" style="text-decoration: none;"><span style="color: #c9953b;"><strong>CS-TOOLKIT</strong></span></a>
     </td>
     <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>SYSTEMS-HUB</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/systems-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SYSTEMS-HUB</strong></span></a>
     </td>
     <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <span style="color: #c9953b;"><strong>GRYFFON-CORE</strong></span>
+      <a href="https://github.com/HilquiasAlmeida/gryffon-core" style="text-decoration: none;"><span style="color: #c9953b;"><strong>GRYFFON-CORE</strong></span></a>
     </td>
   </tr>
   <!-- Linha 2: Ícones respectivos e alinhados -->
@@ -395,7 +393,7 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 
 <p align="center">
   <sub>GRIFO-DE-RÜPPELL TECNOLÓGICO</sub><br />
-  <sub>VISÃO QUE ENXERGA LONGE • CÓDIGO QUE TRANSFORMA</sub>
+  <sub>VISÃO QUE ENXERGA LONGE • CÓDIGOS QUE TRANSFORMAM</sub>
 </p>
 
 <p align="center">
