@@ -365,8 +365,9 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Linguagem | Atualizado |
 |---|---|---|---|
-| [World-GitHub](https://github.com/HilquiasAlmeida/World-GitHub) | 🌍 Guia definitivo e centralizado sobre o ecossistema Git, GitHub, GitLab, fluxos de trabalho, automações e ferramentas visuais | Não especificada | 2026-09-10 |
-| [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-09-09 |
+| [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-09-11 |
+| [dev-ecosystems](https://github.com/HilquiasAlmeida/dev-ecosystems) | Minha central de ecossistemas de desenvolvimento! Um espaço criado para mostrar meus projetos, servir de vitrine e compartilhar informações valiosas, comandos e códigos testados deste universo tech. | Não especificada | 2026-09-11 |
+| [World-GitHub](https://github.com/HilquiasAlmeida/World-GitHub) | 🌍 Guia definitivo e centralizado sobre o ecossistema Git, GitHub, GitLab, fluxos de trabalho, automações e ferramentas visuais | Python | 2026-09-11 |
 | [FIAP](https://github.com/HilquiasAlmeida/FIAP) | Descrição ainda não informada no repositório. | Python | 2026-09-05 |
 | [Academics](https://github.com/HilquiasAlmeida/Academics) | The exercises from the colleges I attended: FIT and FIAP. | Python | 2026-09-02 |
 | [FIT](https://github.com/HilquiasAlmeida/FIT) | Faculdade Impacta de Tecnologia - SP | Não especificada | 2026-09-02 |
