@@ -288,25 +288,29 @@ STATUS      : ONLINE
   <!-- Linha 1: Títulos dos Conceitos (7 Colunas com Links) -->
   <tr>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/tech-portfolio" style="text-decoration: none;"><span style="color: #c9953b;"><strong>TECH-PORTFOLIO</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=tech-portfolio" style="text-decoration: none;"><span style="color: #c9953b;"><strong>TECH-PORTFOLIO</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/software-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=software-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SOFTWARE-HUB</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/dev-ecosystem" style="text-decoration: none;"><span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=dev-ecosystems" style="text-decoration: none;"><span style="color: #c9953b;"><strong>DEV-ECOSYSTEM</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/fullstack-lab" style="text-decoration: none;"><span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=fullstack-labs" style="text-decoration: none;"><span style="color: #c9953b;"><strong>FULLSTACK-LAB</strong></span></a>
     </td>
     <td align="center" width="14%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/cs-toolkit" style="text-decoration: none;"><span style="color: #c9953b;"><strong>CS-TOOLKIT</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=cs-toolkits" style="text-decoration: none;">
+        <span style="color: #c9953b;"><strong>CS-TOOLKIT</strong></span>
+      </a>
     </td>
     <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/systems-hub" style="text-decoration: none;"><span style="color: #c9953b;"><strong>SYSTEMS-HUB</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=systems-hub" style="text-decoration: none;">
+        <span style="color: #c9953b;"><strong>SYSTEMS-HUB</strong></span>
+      </a>
     </td>
     <td align="center" width="15%" style="border: 1px solid #30363d; border-bottom: none; padding: 12px 4px 4px 4px;" valign="top">
-      <a href="https://github.com/HilquiasAlmeida/gryffon-core" style="text-decoration: none;"><span style="color: #c9953b;"><strong>GRYFFON-CORE</strong></span></a>
+      <a href="https://github.com/HilquiasAlmeida?tab=repositories&q=gryffon-core" style="text-decoration: none;"><span style="color: #c9953b;"><strong>GRYFFON-CORE</strong></span></a>
     </td>
   </tr>
   <!-- Linha 2: Ícones respectivos e alinhados -->
