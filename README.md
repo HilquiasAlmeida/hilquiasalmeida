@@ -365,9 +365,13 @@ Projetos públicos do meu perfil oficial [`@HilquiasAlmeida`](https://github.com
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Linguagem | Atualizado |
 |---|---|---|---|
-| [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-09-11 |
-| [dev-ecosystems](https://github.com/HilquiasAlmeida/dev-ecosystems) | Minha central de ecossistemas de desenvolvimento! Um espaço criado para mostrar meus projetos, servir de vitrine e compartilhar informações valiosas, comandos e códigos testados deste universo tech. | Não especificada | 2026-09-11 |
+| [hilquiasalmeida](https://github.com/HilquiasAlmeida/hilquiasalmeida) | Descrição ainda não informada no repositório. | Python | 2026-09-12 |
+| [COBOL](https://github.com/HilquiasAlmeida/COBOL) | Este é um projeto desenvolvido em **COBOL** para demonstrar lógica de programação estruturada voltada para o processamento de dados financeiros e sistemas legados. | COBOL | 2026-09-11 |
+| [hilquiasalmeida.github.io](https://github.com/HilquiasAlmeida/hilquiasalmeida.github.io) | O Meu Tech-Portfolio Professional no GitHub Page ! | HTML | 2026-09-11 |
+| [tech-portfolio](https://github.com/HilquiasAlmeida/tech-portfolio) | O Meu Tech-Portfolio Professional | Não especificada | 2026-09-11 |
+| [web](https://github.com/HilquiasAlmeida/web) | Os meus projetos web | Não especificada | 2026-09-11 |
 | [World-GitHub](https://github.com/HilquiasAlmeida/World-GitHub) | 🌍 Guia definitivo e centralizado sobre o ecossistema Git, GitHub, GitLab, fluxos de trabalho, automações e ferramentas visuais | Python | 2026-09-11 |
+| [dev-ecosystems](https://github.com/HilquiasAlmeida/dev-ecosystems) | Minha central de ecossistemas de desenvolvimento! Um espaço criado para mostrar meus projetos, servir de vitrine e compartilhar informações valiosas, comandos e códigos testados deste universo tech. | Não especificada | 2026-09-11 |
 | [FIAP](https://github.com/HilquiasAlmeida/FIAP) | Descrição ainda não informada no repositório. | Python | 2026-09-05 |
 | [Academics](https://github.com/HilquiasAlmeida/Academics) | The exercises from the colleges I attended: FIT and FIAP. | Python | 2026-09-02 |
 | [FIT](https://github.com/HilquiasAlmeida/FIT) | Faculdade Impacta de Tecnologia - SP | Não especificada | 2026-09-02 |
