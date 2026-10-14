@@ -222,7 +222,7 @@ MODE   : FOCUSED
 
 ------------------------------------------
 
-ROLE        : Engenheiro da Computação
+ROLE        : Futuro Engenheiro da Computação
 FOCUS       : Sistemas & Soluções
 LANGUAGES   : Python, Java, COBOL, C, C++, C#, JavaScript
 DATABASES   : PostgreSQL, MongoDB, MySQL, SQL, NoSQL
